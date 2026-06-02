@@ -1,4 +1,4 @@
-# 
+# Turbo WinRAR fluxo de trabalho para Mac OS | Ultimato WinRAR fluxo de trabalho para PC Windows. Com ajustes do Windows e suporte a linha de comando — otimizado para máximo desempenho em cada plataforma.
 
 
 
